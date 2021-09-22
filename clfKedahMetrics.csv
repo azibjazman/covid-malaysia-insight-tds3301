@@ -1,0 +1,6 @@
+Model_Name,Precision,Recall,F1_Score,Accuracy
+Naive Bayers,0.87,0.86,0.86,0.86
+K-Nearest Neighbors,0.93,0.94,0.94,0.94
+SVM,0.88,0.87,0.87,0.87
+Logit,0.84,0.84,0.84,0.84
+CART,0.83,0.84,0.83,0.84

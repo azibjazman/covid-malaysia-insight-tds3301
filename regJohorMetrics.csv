@@ -1,0 +1,4 @@
+Model_Name,R2-Score,MAE,MSE,RMSE
+Linear Regression,0.88,81.8,19193.91,138.54
+Decision Tree Regression,0.88,69.66,20039.23,141.56
+XGBoost Regression,0.74,124.88,78616.94,280.39
